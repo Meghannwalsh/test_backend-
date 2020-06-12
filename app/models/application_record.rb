@@ -3,4 +3,6 @@ class ApplicationRecord < ActiveRecord::Base
 
 
   puts "yay"
+
+  puts "we did it!!!!!"
 end
